@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://www.copmer.com",
+      "destination": "https://copmer.com/single-pages/freight-trading-in-bulk-commodity-supply-chains/",
       "permanent": true
     }
   ]
